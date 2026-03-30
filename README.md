@@ -18,6 +18,19 @@
 
 <br/>
 
+## Featured Projects
+
+- **1. Meat-A-Eye (팀장)** : 데이터 정제 기반 비전(Vision) 및 하이브리드 OCR 융합 플랫폼 <br>
+  👉 <a href="https://www.notion.so/Meat-A-Eye-2e26e129440d8035ad3ef7c7df562ceb?source=copy_link" target="_blank">프로젝트 상세 보기 (Notion)</a>
+
+- **2. RL-Tycoon-Agent (팀장)** : 경영 시뮬레이션 환경 기반 강화학습(RL) 에이전트 도입 및 분석 <br>
+  👉 <a href="https://www.notion.so/RL-Tycoon-Agent-32c6e129440d809984c7e54c312bad3c?source=copy_link" target="_blank">프로젝트 상세 보기 (Notion)</a>
+
+- **3. YUZY PROJECT** : 오픈소스 LLM 테스트 기반 코드 분석 및 하이브리드 OCR 파이프라인 구축 <br>
+  👉 <a href="https://www.notion.so/YUZY-PROJECT-2e26e129440d801cbbdaccf0b71ed8f9?source=copy_link" target="_blank">프로젝트 상세 보기 (Notion)</a>
+
+<br/>
+
 ## 🛠️ Tech Stack & Skills
 
 **🤖 AI 개발** (Vision, OCR, Fine-Tuning, LLM, Data-Centric, RL)
