@@ -23,7 +23,7 @@
 
 ## 🚀 대표 팀 프로젝트
 
-### AgentShield · LLM 보안 검증 플랫폼 <sub>`팀장`</sub>
+### 🛡️ AgentShield · LLM 보안 검증 플랫폼 <sub>`팀장`</sub>
 
 <a href="https://github.com/gonida1010/AgentShield" target="_blank">
   <img src="https://img.shields.io/badge/Role-Team%20Lead-f59e0b?style=flat-square&logo=github&logoColor=white"/>
@@ -41,7 +41,9 @@
 - **Monitoring Proxy** — 운영 챗봇 앞단 P1~P4 정책 게이트 + 멀티턴 보존 + tool_trace 추적
 - **OWASP LLM Top 10 커버** — LLM01 Prompt Injection · LLM02 Sensitive Info · LLM06 Excessive Agency · LLM07 System Prompt Leakage
 
-<a href="https://github.com/gonida1010/AgentShield" target="_blank">GitHub Repository →</a>
+<a href="https://github.com/gonida1010/AgentShield" target="_blank">💻 GitHub Repository →</a>
+
+<a href="https://www.notion.so/EPOCH-X-3126e129440d80c5bf99ed245489015f?source=copy_link" target="_blank">📒 Notion →</a>
 
 ---
 
