@@ -157,8 +157,6 @@ Dynamic UI · GenUI · SPA · 디자인 시스템
 
 ## 📊 GitHub Stats
 
-## GitHub Stats
-
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gonida1010&theme=tokyonight" />
   <br/>
