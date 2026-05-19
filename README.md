@@ -23,7 +23,7 @@
 
 ## 🚀 대표 팀 프로젝트
 
-### 🛡️ AgentShield · LLM 보안 검증 플랫폼 <sub>`팀장`</sub>
+### AgentShield · LLM 보안 검증 플랫폼 <sub>`팀장`</sub>
 
 <a href="https://github.com/gonida1010/AgentShield" target="_blank">
   <img src="https://img.shields.io/badge/Role-Team%20Lead-f59e0b?style=flat-square&logo=github&logoColor=white"/>
@@ -47,20 +47,68 @@
 
 ---
 
-### 🥩 Meat-A-Eye <sub>`팀장`</sub>
-> 데이터 정제 기반 비전(Vision) 및 하이브리드 OCR 융합 플랫폼
+### Meat-A-Eye · 축산물 부위 인식 & 원스톱 정보 플랫폼 <sub>`팀장`</sub>
 
-<a href="https://www.notion.so/Meat-A-Eye-2e26e129440d8035ad3ef7c7df562ceb?source=copy_link" target="_blank">📒 Notion</a> ・ <a href="https://github.com/gonida1010/Meat-A-Eye-Service" target="_blank">💻 GitHub</a>
+<a href="https://github.com/gonida1010/Meat-A-Eye-Service" target="_blank">
+  <img src="https://img.shields.io/badge/Role-Team%20Lead-f59e0b?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stack-Next.js%20·%20FastAPI%20·%20PyTorch%20·%20AWS-7c3aed?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Domain-Vision%20·%20Hybrid%20OCR-db2777?style=flat-square"/>
+</a>
 
-### 🎮 RL-Tycoon-Agent <sub>`팀장`</sub>
-> 경영 시뮬레이션 환경 기반 강화학습(RL) 에이전트 도입 및 분석
+> 사진 한 장으로 축산물 부위를 인식하고 시세·영양·이력·레시피까지 한 번에 제공하는 AI 마이크로서비스
 
-<a href="https://www.notion.so/RL-Tycoon-Agent-32c6e129440d809984c7e54c312bad3c?source=copy_link" target="_blank">📒 Notion</a> ・ <a href="https://github.com/gonida1010/RL-Tycoon-Agent" target="_blank">💻 GitHub</a>
+- **부위 인식** — EfficientNet-B2 파인튜닝으로 소·돼지 부위 9·7종 분류 (정확도 94.2%)
+- **하이브리드 OCR** — EasyOCR + PaddleOCR 결과 병합으로 이력번호 인식 (88.9%)
+- **공공 API 통합** — 시세 · 영양 · 유통이력 등 5종 API 연동
+- **AI 레시피** — Gemini 2.5 Flash로 부위별 요리법 추천 / 스마트 냉장고(D-day) 관리
+- **운영 인프라** — AWS EC2 + Docker Compose + Nginx 기반 마이크로서비스
 
-### 🍊 YUZY PROJECT
-> 오픈소스 LLM 테스트 기반 코드 분석 및 하이브리드 OCR 파이프라인 구축
+<a href="https://github.com/gonida1010/Meat-A-Eye-Service" target="_blank">💻 GitHub Repository →</a>
 
-<a href="https://www.notion.so/YUZY-PROJECT-2e26e129440d801cbbdaccf0b71ed8f9?source=copy_link" target="_blank">📒 Notion</a> ・ <a href="https://github.com/orgs/ANGELS-JustDoIt/repositories" target="_blank">💻 GitHub</a>
+<a href="https://www.notion.so/Meat-A-Eye-2e26e129440d8035ad3ef7c7df562ceb?source=copy_link" target="_blank">📒 Notion →</a>
+
+---
+
+### RL-Tycoon-Agent · 강화학습 알고리즘 비교 실험 플랫폼 <sub>`팀장`</sub>
+
+<a href="https://github.com/gonida1010/RL-Tycoon-Agent" target="_blank">
+  <img src="https://img.shields.io/badge/Role-Team%20Lead-f59e0b?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stack-Python%20·%20Pygame%20·%20Gymnasium%20·%20SB3-7c3aed?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Domain-Reinforcement%20Learning-db2777?style=flat-square"/>
+</a>
+
+> Pygame 기반 레스토랑 타이쿤 환경에서 **13종 RL 알고리즘**의 운영 의사결정 학습을 비교·분석하는 실험 플랫폼
+
+- **환경 (Gymnasium)** — 16×10 타일 맵 · 18 이산 행동 · 150차원 관측 · 0.2초 스텝
+- **알고리즘 13종** — PPO · DQN · Rainbow · SAC · DiscreteSAC · MuZero · DreamerV3 · CrossPlay 등
+- **실행 모드 4종** — Human / Versus / Watch / Tournament 비교 학습
+- **전략 학습** — 단순 이동을 넘어 업그레이드 · 특성 선택까지 포함한 운영 의사결정
+- **결과 분석** — `final_score = net_profit × (1 + rating/10)` 기준 DiscreteSAC > CrossPlay > PPO
+
+<a href="https://github.com/gonida1010/RL-Tycoon-Agent" target="_blank">💻 GitHub Repository →</a>
+
+<a href="https://www.notion.so/RL-Tycoon-Agent-32c6e129440d809984c7e54c312bad3c?source=copy_link" target="_blank">📒 Notion →</a>
+
+---
+
+### YUZY Project · 코드 분석 & 하이브리드 OCR 파이프라인
+
+<a href="https://github.com/gonida1010/yuzyproject-aimodels" target="_blank">
+  <img src="https://img.shields.io/badge/Stack-FastAPI%20·%20PyTorch%20·%20Transformers-7c3aed?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Domain-LLM%20·%20OCR-db2777?style=flat-square"/>
+</a>
+
+> 오픈소스 LLM과 하이브리드 OCR을 결합해 프로젝트 코드를 분석·시각화하는 AI 백엔드
+
+- **코드 분석 LLM** — Qwen2.5-Coder-1.5B-Instruct로 API 엔드포인트 · 호출 플로우 추출
+- **시각화 출력** — 분석 결과 JSON 반환으로 프론트엔드 GenUI 연동
+- **하이브리드 OCR** — Tesseract + Windows WinRT 병렬 실행 후 결과 병합
+- **코드 모드** — 인식 결과의 들여쓰기 · 포맷팅 자동 보정
+- **서빙 최적화** — FastAPI + Uvicorn, 서버 부팅 시 모델 1회 로딩으로 추론 가속
+
+<a href="https://github.com/gonida1010/yuzyproject-aimodels" target="_blank">💻 GitHub Repository →</a>
+
+<a href="https://www.notion.so/YUZY-PROJECT-2e26e129440d801cbbdaccf0b71ed8f9?source=copy_link" target="_blank">📒 Notion →</a>
 
 <br/>
 
