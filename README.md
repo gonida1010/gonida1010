@@ -43,7 +43,7 @@
 
 <a href="https://github.com/gonida1010/AgentShield" target="_blank">💻 GitHub Repository →</a>
 
-<a href="https://www.notion.so/EPOCH-X-3126e129440d80c5bf99ed245489015f?source=copy_link" target="_blank">📒 Notion →</a>
+<a href="https://www.notion.so/AgentShield-3646e129440d80c1929ed7548d313d2e?source=copy_link" target="_blank">📒 Notion →</a>
 
 ---
 
