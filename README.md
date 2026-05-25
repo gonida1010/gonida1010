@@ -27,36 +27,36 @@
     <tr>
       <td valign="top" width="50%">
         <a href="https://github.com/EPOCH-X/AgentShield">
-          <img src="https://github-readme-stats.shion.dev/api/pin/?username=EPOCH-X&repo=AgentShield&theme=tokyonight&show_owner=true&description_lines_count=3&card_width=450" />
+          <img src="https://github-readme-stats.shion.dev/api/pin/?username=EPOCH-X&repo=AgentShield&theme=tokyonight&show_owner=true&hide_description=true" width="100%" />
         </a>
       </td>
       <td valign="top" width="50%">
         <a href="https://github.com/Meat-A-Eye-Ops/Meat-A-Eye-Service">
-          <img src="https://github-readme-stats.shion.dev/api/pin/?username=Meat-A-Eye-Ops&repo=Meat-A-Eye-Service&theme=tokyonight&show_owner=true&description_lines_count=3&card_width=450" />
+          <img src="https://github-readme-stats.shion.dev/api/pin/?username=Meat-A-Eye-Ops&repo=Meat-A-Eye-Service&theme=tokyonight&show_owner=true&hide_description=true" width="100%" />
         </a>
       </td>
     </tr>
     <tr>
       <td valign="top" width="50%">
         <a href="https://github.com/gonida1010/yuzyproject-aimodels">
-          <img src="https://github-readme-stats.shion.dev/api/pin/?username=gonida1010&repo=yuzyproject-aimodels&theme=tokyonight&show_owner=true&description_lines_count=3&card_width=450" />
+          <img src="https://github-readme-stats.shion.dev/api/pin/?username=gonida1010&repo=yuzyproject-aimodels&theme=tokyonight&show_owner=true&hide_description=true" width="100%" />
         </a>
       </td>
       <td valign="top" width="50%">
         <a href="https://github.com/gonida1010/KIT-AI-Learning">
-          <img src="https://github-readme-stats.shion.dev/api/pin/?username=gonida1010&repo=KIT-AI-Learning&theme=tokyonight&show_owner=true&description_lines_count=3&card_width=450" />
+          <img src="https://github-readme-stats.shion.dev/api/pin/?username=gonida1010&repo=KIT-AI-Learning&theme=tokyonight&show_owner=true&hide_description=true" width="100%" />
         </a>
       </td>
     </tr>
     <tr>
       <td valign="top" width="50%">
         <a href="https://github.com/EPOCH-X/RL-Tycoon-Agent">
-          <img src="https://github-readme-stats.shion.dev/api/pin/?username=EPOCH-X&repo=RL-Tycoon-Agent&theme=tokyonight&show_owner=true&description_lines_count=3&card_width=450" />
+          <img src="https://github-readme-stats.shion.dev/api/pin/?username=EPOCH-X&repo=RL-Tycoon-Agent&theme=tokyonight&show_owner=true&hide_description=true" width="100%" />
         </a>
       </td>
       <td valign="top" width="50%">
         <a href="https://github.com/gonida1010/DemonSlayer-RandomDefense">
-          <img src="https://github-readme-stats.shion.dev/api/pin/?username=gonida1010&repo=DemonSlayer-RandomDefense&theme=tokyonight&show_owner=true&description_lines_count=3&card_width=450" />
+          <img src="https://github-readme-stats.shion.dev/api/pin/?username=gonida1010&repo=DemonSlayer-RandomDefense&theme=tokyonight&show_owner=true&hide_description=true" width="100%" />
         </a>
       </td>
     </tr>
