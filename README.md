@@ -21,6 +21,48 @@
 
 <br/>
 
+## 📌 Pinned Projects
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <a href="https://github.com/EPOCH-X/AgentShield">
+          <img src="https://github-readme-stats.shion.dev/api/pin/?username=EPOCH-X&repo=AgentShield&theme=tokyonight&show_owner=true&description_lines_count=3&card_width=450" />
+        </a>
+      </td>
+      <td valign="top" width="50%">
+        <a href="https://github.com/Meat-A-Eye-Ops/Meat-A-Eye-Service">
+          <img src="https://github-readme-stats.shion.dev/api/pin/?username=Meat-A-Eye-Ops&repo=Meat-A-Eye-Service&theme=tokyonight&show_owner=true&description_lines_count=3&card_width=450" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" width="50%">
+        <a href="https://github.com/gonida1010/yuzyproject-aimodels">
+          <img src="https://github-readme-stats.shion.dev/api/pin/?username=gonida1010&repo=yuzyproject-aimodels&theme=tokyonight&show_owner=true&description_lines_count=3&card_width=450" />
+        </a>
+      </td>
+      <td valign="top" width="50%">
+        <a href="https://github.com/gonida1010/KIT-AI-Learning">
+          <img src="https://github-readme-stats.shion.dev/api/pin/?username=gonida1010&repo=KIT-AI-Learning&theme=tokyonight&show_owner=true&description_lines_count=3&card_width=450" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" width="50%">
+        <a href="https://github.com/EPOCH-X/RL-Tycoon-Agent">
+          <img src="https://github-readme-stats.shion.dev/api/pin/?username=EPOCH-X&repo=RL-Tycoon-Agent&theme=tokyonight&show_owner=true&description_lines_count=3&card_width=450" />
+        </a>
+      </td>
+      <td valign="top" width="50%">
+        <a href="https://github.com/gonida1010/DemonSlayer-RandomDefense">
+          <img src="https://github-readme-stats.shion.dev/api/pin/?username=gonida1010&repo=DemonSlayer-RandomDefense&theme=tokyonight&show_owner=true&description_lines_count=3&card_width=450" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ## 🚀 대표 팀 프로젝트
 
 ### AgentShield · LLM 보안 검증 플랫폼 <sub>`팀장`</sub>
