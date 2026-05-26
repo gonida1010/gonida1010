@@ -63,6 +63,8 @@
   </table>
 </div>
 
+<br/>
+
 ## 🚀 대표 팀 프로젝트
 
 ### AgentShield · LLM 보안 검증 플랫폼 <sub>`팀장`</sub>
