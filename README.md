@@ -113,6 +113,27 @@
 
 ---
 
+### YUZY Project · 코드 분석 & 하이브리드 OCR 파이프라인
+
+<a href="https://github.com/gonida1010/yuzyproject-aimodels" target="_blank">
+  <img src="https://img.shields.io/badge/Stack-FastAPI%20·%20PyTorch%20·%20Transformers-7c3aed?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Domain-LLM%20·%20OCR-db2777?style=flat-square"/>
+</a>
+
+> 오픈소스 LLM과 하이브리드 OCR을 결합해 프로젝트 코드를 분석·시각화하는 AI 백엔드
+
+- **코드 분석 LLM** — Qwen2.5-Coder-1.5B-Instruct로 API 엔드포인트 · 호출 플로우 추출
+- **시각화 출력** — 분석 결과 JSON 반환으로 프론트엔드 GenUI 연동
+- **하이브리드 OCR** — Tesseract + Windows WinRT 병렬 실행 후 결과 병합
+- **코드 모드** — 인식 결과의 들여쓰기 · 포맷팅 자동 보정
+- **서빙 최적화** — FastAPI + Uvicorn, 서버 부팅 시 모델 1회 로딩으로 추론 가속
+
+<a href="https://github.com/gonida1010/yuzyproject-aimodels" target="_blank">💻 GitHub Repository →</a>
+
+<a href="https://www.notion.so/YUZY-PROJECT-2e26e129440d801cbbdaccf0b71ed8f9?source=copy_link" target="_blank">📒 Notion →</a>
+
+---
+
 ### RL-Tycoon-Agent · 강화학습 알고리즘 비교 실험 플랫폼 <sub>`팀장`</sub>
 
 <a href="https://github.com/gonida1010/RL-Tycoon-Agent" target="_blank">
@@ -132,27 +153,6 @@
 <a href="https://github.com/gonida1010/RL-Tycoon-Agent" target="_blank">💻 GitHub Repository →</a>
 
 <a href="https://www.notion.so/RL-Tycoon-Agent-32c6e129440d809984c7e54c312bad3c?source=copy_link" target="_blank">📒 Notion →</a>
-
----
-
-### YUZY Project · 코드 분석 & 하이브리드 OCR 파이프라인
-
-<a href="https://github.com/gonida1010/yuzyproject-aimodels" target="_blank">
-  <img src="https://img.shields.io/badge/Stack-FastAPI%20·%20PyTorch%20·%20Transformers-7c3aed?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Domain-LLM%20·%20OCR-db2777?style=flat-square"/>
-</a>
-
-> 오픈소스 LLM과 하이브리드 OCR을 결합해 프로젝트 코드를 분석·시각화하는 AI 백엔드
-
-- **코드 분석 LLM** — Qwen2.5-Coder-1.5B-Instruct로 API 엔드포인트 · 호출 플로우 추출
-- **시각화 출력** — 분석 결과 JSON 반환으로 프론트엔드 GenUI 연동
-- **하이브리드 OCR** — Tesseract + Windows WinRT 병렬 실행 후 결과 병합
-- **코드 모드** — 인식 결과의 들여쓰기 · 포맷팅 자동 보정
-- **서빙 최적화** — FastAPI + Uvicorn, 서버 부팅 시 모델 1회 로딩으로 추론 가속
-
-<a href="https://github.com/gonida1010/yuzyproject-aimodels" target="_blank">💻 GitHub Repository →</a>
-
-<a href="https://www.notion.so/YUZY-PROJECT-2e26e129440d801cbbdaccf0b71ed8f9?source=copy_link" target="_blank">📒 Notion →</a>
 
 <br/>
 
