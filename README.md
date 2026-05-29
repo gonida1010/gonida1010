@@ -55,8 +55,8 @@
         </a>
       </td>
       <td valign="top" width="50%">
-        <a href="https://github.com/gonida1010/DemonSlayer-RandomDefense">
-          <img src="https://github-readme-stats.shion.dev/api/pin/?username=gonida1010&repo=DemonSlayer-RandomDefense&theme=tokyonight&show_owner=true&hide_description=true" width="100%" />
+  <a href="https://github.com/gonida1010/dacon-structural-stability">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=gonida1010&repo=dacon-structural-stability&theme=tokyonight&show_owner=true&hide_description=true" width="100%" />
         </a>
       </td>
     </tr>
