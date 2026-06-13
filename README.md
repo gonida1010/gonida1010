@@ -199,6 +199,18 @@ Dynamic UI · GenUI · SPA · 디자인 시스템
 
 <br/>
 
+## 🏃‍♂️ Daily Grind
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gonida1010/gonida1010/output/bomberman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gonida1010/gonida1010/output/bomberman-contribution-graph.svg" />
+    <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/gonida1010/gonida1010/output/bomberman-contribution-graph.svg" />
+  </picture>
+</div>
+
+<br/>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -209,18 +221,6 @@ Dynamic UI · GenUI · SPA · 디자인 시스템
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gonida1010&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gonida1010&theme=tokyonight&utcOffset=9" />
-</div>
-
-<br/>
-
-## 🐍 Contribution
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gonida1010/gonida1010/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gonida1010/gonida1010/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/gonida1010/gonida1010/output/github-contribution-grid-snake.svg" />
-  </picture>
 </div>
 
 <div align="center">
