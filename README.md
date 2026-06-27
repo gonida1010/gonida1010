@@ -7,6 +7,7 @@
   <p>
     <a href="https://pak1010pak.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech%20Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
     <a href="https://www.notion.so/2ce6e129440d812e9d82e8bfa1a18426?source=copy_link" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
+    <a href="https://canva.link/yh8hqxypn5hu0b9" target="_blank"><img src="https://img.shields.io/badge/Portfolio%20PPT-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/></a>
     <a href="mailto:pak101044@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
     <img src="https://komarev.com/ghpvc/?username=gonida1010&style=for-the-badge&color=7c3aed" alt="profile views"/>
   </p>
@@ -131,6 +132,29 @@
 <a href="https://github.com/gonida1010/yuzyproject-aimodels" target="_blank">💻 GitHub Repository →</a>
 
 <a href="https://www.notion.so/YUZY-PROJECT-2e26e129440d801cbbdaccf0b71ed8f9?source=copy_link" target="_blank">📒 Notion →</a>
+
+---
+
+### Edu-Sync AI · KDT 교육 운영 멀티 에이전트 AI 챗봇 <sub>`개인 · KEG 바이브코딩 공모전`</sub>
+
+<a href="https://github.com/gonida1010/KIT-AI-Learning" target="_blank">
+  <img src="https://img.shields.io/badge/Role-Solo%20Dev-22c55e?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stack-FastAPI%20·%20React%20·%20LangChain%20·%20FAISS-7c3aed?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Domain-Multi--Agent%20·%20RAG-db2777?style=flat-square"/>
+</a>
+
+> 국비지원 코딩 학원의 학습 지원·행정 안내·조교 예약·멘토 상담을 하나의 AI 챗봇으로 통합한 멀티 에이전트 플랫폼 (1주일 개인 개발)
+
+- **멀티 에이전트 챗봇** — Agent Router가 의도 분류 후 행정·학습(Agent A) / 조교·예약(Agent B)으로 자동 라우팅
+- **RAG 파이프라인** — 공용 지식 · 큐레이션 · 멘토별 자료를 각각 독립 FAISS 벡터스토어로 분리 관리
+- **역할별 대시보드** — 수강생 · 멘토 · 조교 · 관리자 4개 역할 전용 화면 + 세션 기반 접근 제어
+- **조교 예약 자동화** — 4단계 예약 플로우(날짜→시간→내용→확정) + AI 브리핑 리포트 자동 생성
+- **카카오톡 챗봇 연동** — 카카오 채널 웹훅 → 웹 챗봇 통합 인터페이스
+- **배포** — Render (FastAPI + React SPA 정적 서빙) + PostgreSQL / SQLite 로컬 데모
+
+<a href="https://github.com/gonida1010/KIT-AI-Learning" target="_blank">💻 GitHub Repository →</a>
+
+<a href="https://www.notion.so/36e6e129440d8011976ae6ec1717284c?source=copy_link" target="_blank">📒 Notion →</a>
 
 ---
 
