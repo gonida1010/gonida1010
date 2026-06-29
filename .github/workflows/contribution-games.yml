@@ -1,25 +1,28 @@
-name: Generate Bomberman
+name: Generate Contribution Games
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */24 * * *"
   workflow_dispatch:
-
-permissions:
-  contents: write
+  push:
+    branches:
+      - main
 
 jobs:
-  build:
+  generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate contribution graph SVGs
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: gonida1010
-          outputs: |
-            dist/bomberman-contribution-graph.svg?palette=github-dark&color_dots=#1e3a8a,#7c3aed,#db2777,#f59e0b,#22c55e&game=bomberman
-            dist/bomberman-contribution-graph-dark.svg?palette=github-dark&color_dots=#1e3a8a,#7c3aed,#db2777,#f59e0b,#22c55e&game=bomberman
+          games: 'pacman,bomberman'
 
-      - uses: crazy-max/ghaction-github-pages@v4
+      - name: Push SVGs to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
