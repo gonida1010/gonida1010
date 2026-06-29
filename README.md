@@ -22,6 +22,33 @@
 
 <br/>
 
+## 🏆 Competition
+
+<div align="center">
+  <table>
+    <tr>
+      <th>대회</th>
+      <th>순위</th>
+      <th>참가자</th>
+      <th>Private Score</th>
+    </tr>
+    <tr>
+      <td><b>2026 성균관대학교 멀티모달 AI Bias 챌린지</b></td>
+      <td>🥇 <b>1등</b></td>
+      <td>506명</td>
+      <td>0.94821</td>
+    </tr>
+    <tr>
+      <td><b>DACON 구조물 안정성 물리 추론 AI 경진대회</b></td>
+      <td>🏅 16등 (상위 4%)</td>
+      <td>898명</td>
+      <td>0.01903</td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
 ## 📌 Pinned Projects
 <div align="center">
   <table>
