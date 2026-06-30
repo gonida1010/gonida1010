@@ -33,7 +33,7 @@
       <th>Private Score</th>
     </tr>
     <tr>
-      <td><b>2026 성균관대학교 멀티모달 AI Bias 챌린지</b></td>
+      <td><b>DACON 2026 성균관대학교 멀티모달 AI Bias 챌린지</b></td>
       <td>🥇 <b>1등</b></td>
       <td>506명</td>
       <td>0.94821</td>
