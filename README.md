@@ -42,7 +42,7 @@
       <td><b>Kaggle Predicting Stellar Class</b></td>
       <td>🏅 27등 (상위 1%)</td>
       <td>2,824팀</td>
-      <td>-</td>
+      <td>0.97029</td>
     </tr>
     <tr>
       <td><b>DACON 구조물 안정성 물리 추론 AI 경진대회</b></td>
