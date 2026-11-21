@@ -19,6 +19,7 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: gonida1010
+          github_token: ${{ secrets.CONTRIB_TOKEN || github.token }}
           games: 'pacman,bomberman'
 
       - name: Push SVGs to the output branch
