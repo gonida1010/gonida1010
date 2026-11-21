@@ -1,129 +1,87 @@
 <div align="center">
 
   <a href="https://github.com/gonida1010">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:7c3aed,100:db2777&height=220&section=header&text=AI%20Developer%20Park%20Yeonggon&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=과정은%20꾸준하게,%20결과는%20확실하게&descSize=18&descAlignY=60&animation=fadeIn" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:7c3aed,100:db2777&height=220&section=header&text=Park%20Yeonggon%20·%20AI%20Engineer&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=연구를%20제품으로&descSize=18&descAlignY=60&animation=fadeIn" />
   </a>
 
   <p>
     <a href="https://pak1010pak.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech%20Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
     <a href="https://www.notion.so/2ce6e129440d812e9d82e8bfa1a18426?source=copy_link" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
-    <a href="https://canva.link/yh8hqxypn5hu0b9" target="_blank"><img src="https://img.shields.io/badge/Portfolio%20PPT-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/></a>
     <a href="mailto:pak101044@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
     <img src="https://komarev.com/ghpvc/?username=gonida1010&style=for-the-badge&color=7c3aed" alt="profile views"/>
   </p>
 
 </div>
 
-## 👨‍💻 About Me
+## <img src="https://api.iconify.design/lucide/user-round.svg?color=%237c3aed" width="22" height="22" align="top"/> About Me
 
 > 금융 IT 기업 **OASYS**에서 개발자로 일하고 있습니다. 사내 GPU 서버에서 LLM을 파인튜닝하고 에이전트 기반 문서 검색을 연구하며, 은행에 공급하는 자체 금융 솔루션을 만듭니다. 실험으로 성능을 증명하고, 그 결과를 실제로 운영되는 제품으로 완성하는 것이 제 일하는 방식입니다.
 
-- 🔥 **책임감** — 공백 없는 꾸준함, 결과로 증명합니다.
-- 📐 **기술** — 데이터를 읽고, 모델을 설계하고, 성능으로 증명합니다.
-- 🤝 **리더십** — 신뢰는 말이 아니라 행동으로 쌓입니다.
+- <img src="https://api.iconify.design/lucide/brain-circuit.svg?color=%237c3aed" width="16" height="16"/> **LLM Engineering** — 온프레미스 GPU 서버에서 LLM 파인튜닝과 평가
+- <img src="https://api.iconify.design/lucide/file-search.svg?color=%237c3aed" width="16" height="16"/> **Agentic Retrieval** — 에이전트 기반 문서 검색 연구
+- <img src="https://api.iconify.design/lucide/landmark.svg?color=%237c3aed" width="16" height="16"/> **FinTech Product** — 은행에 공급하는 금융 솔루션 개발
+
+<sub>과정은 꾸준하게, 결과는 확실하게.</sub>
 
 <br/>
 
-## 🏆 Competition
+## <img src="https://api.iconify.design/lucide/hammer.svg?color=%237c3aed" width="22" height="22" align="top"/> Now Building
+
+**[gonlith](https://github.com/gonida1010/gonlith)** — 어떤 AI를 쓰든 같은 기억과 지식을 쓰게 해 주는 로컬 기억·지식 저장소 (MCP · 오픈소스 · 개발 중)
+
+<br/>
+
+## <img src="https://api.iconify.design/lucide/trophy.svg?color=%237c3aed" width="22" height="22" align="top"/> Competitions
 
 <div align="center">
   <table>
     <tr>
       <th>대회</th>
-      <th>순위</th>
-      <th>참가자</th>
+      <th>최종 순위</th>
+      <th>규모</th>
       <th>Private Score</th>
     </tr>
     <tr>
-      <td><b>DACON 2026 성균관대학교 멀티모달 AI Bias 챌린지</b></td>
-      <td>🥇 <b>1등</b></td>
-      <td>506명</td>
-      <td>0.94821</td>
+      <td><a href="https://github.com/gonida1010/SKKU-Multimodal-Challenge-2026"><b>2026 성균관대학교 멀티모달 AI Bias 챌린지</b></a><br/><sub>DACON · VLM 사회적 편향 · 개인</sub></td>
+      <td><img src="https://api.iconify.design/lucide/trophy.svg?color=%237c3aed" width="16" height="16"/> <b>1위</b><br/><sub>시상은 참가 자격(대학·대학원 재학) 요건으로 대상 외</sub></td>
+      <td>263팀 · 561명</td>
+      <td>BA 0.94821</td>
     </tr>
     <tr>
-      <td><b>Kaggle Predicting Stellar Class</b></td>
-      <td>🏅 27등 (상위 1%)</td>
-      <td>2,824팀</td>
+      <td><a href="https://github.com/gonida1010/Kaggle_Predicting_Stellar_Class"><b>Kaggle Playground S6E6 · Predicting Stellar Class</b></a><br/><sub>Kaggle · 정형 데이터 분류 · 개인</sub></td>
+      <td><img src="https://api.iconify.design/lucide/medal.svg?color=%237c3aed" width="16" height="16"/> <b>27위</b> · 상위 1%</td>
+      <td>2,816팀</td>
       <td>0.97029</td>
     </tr>
     <tr>
-      <td><b>DACON 구조물 안정성 물리 추론 AI 경진대회</b></td>
-      <td>🏅 16등 (상위 4%)</td>
-      <td>898명</td>
-      <td>0.01903</td>
+      <td><a href="https://github.com/gonida1010/dacon-structural-stability"><b>구조물 안정성 물리 추론 AI 경진대회</b></a><br/><sub>DACON · Physics/Vision AI · 5인 팀</sub></td>
+      <td><img src="https://api.iconify.design/lucide/medal.svg?color=%237c3aed" width="16" height="16"/> <b>16위</b> · 상위 4%</td>
+      <td>484팀</td>
+      <td>LogLoss 0.01903</td>
     </tr>
   </table>
 </div>
 
 <br/>
 
-## 📌 Pinned Projects
-<div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="50%">
-        <a href="https://github.com/EPOCH-X/AgentShield">
-          <img src="https://github-readme-stats.shion.dev/api/pin/?username=EPOCH-X&repo=AgentShield&theme=tokyonight&show_owner=true&hide_description=true" width="100%" />
-        </a>
-      </td>
-      <td valign="top" width="50%">
-        <a href="https://github.com/Meat-A-Eye-Ops/Meat-A-Eye-Service">
-          <img src="https://github-readme-stats.shion.dev/api/pin/?username=Meat-A-Eye-Ops&repo=Meat-A-Eye-Service&theme=tokyonight&show_owner=true&hide_description=true" width="100%" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td valign="top" width="50%">
-        <a href="https://github.com/gonida1010/yuzyproject-aimodels">
-          <img src="https://github-readme-stats.shion.dev/api/pin/?username=gonida1010&repo=yuzyproject-aimodels&theme=tokyonight&show_owner=true&hide_description=true" width="100%" />
-        </a>
-      </td>
-      <td valign="top" width="50%">
-        <a href="https://github.com/gonida1010/KIT-AI-Learning">
-          <img src="https://github-readme-stats.shion.dev/api/pin/?username=gonida1010&repo=KIT-AI-Learning&theme=tokyonight&show_owner=true&hide_description=true" width="100%" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td valign="top" width="50%">
-        <a href="https://github.com/EPOCH-X/RL-Tycoon-Agent">
-          <img src="https://github-readme-stats.shion.dev/api/pin/?username=EPOCH-X&repo=RL-Tycoon-Agent&theme=tokyonight&show_owner=true&hide_description=true" width="100%" />
-        </a>
-      </td>
-      <td valign="top" width="50%">
-  <a href="https://github.com/gonida1010/dacon-structural-stability">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=gonida1010&repo=dacon-structural-stability&theme=tokyonight&show_owner=true&hide_description=true" width="100%" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-## 🚀 대표 팀 프로젝트
+## <img src="https://api.iconify.design/lucide/rocket.svg?color=%237c3aed" width="22" height="22" align="top"/> Projects
 
 ### AgentShield · LLM 보안 검증 플랫폼 <sub>`팀장`</sub>
 
 <a href="https://github.com/gonida1010/AgentShield" target="_blank">
   <img src="https://img.shields.io/badge/Role-Team%20Lead-f59e0b?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Status-Active-22c55e?style=flat-square"/>
   <img src="https://img.shields.io/badge/Stack-FastAPI%20·%20Next.js%20·%20LangGraph%20·%20Ollama-7c3aed?style=flat-square"/>
   <img src="https://img.shields.io/badge/Domain-OWASP%20LLM%20Top%2010-db2777?style=flat-square"/>
 </a>
 
-> **Red(공격) → Judge(판정) → Blue(방어)** 멀티 에이전트 파이프라인으로 LLM 챗봇의 취약점을 자동 진단·완화하는 SaaS형 보안 검증 플랫폼
+> **Red(공격) → Judge(판정) → Blue(방어)** 멀티 에이전트 파이프라인으로 LLM 챗봇의 취약점을 자동 진단·완화하는 보안 검증 플랫폼
 
 - **Red Agent** — 라운드 기반 적응형 공격 프롬프트 생성 (다국어 / 인코딩 회전 / 도메인 컨텍스트)
-- **Judge (LangGraph)** — Evidence Scanner · Strict Auditor · Context Auditor 합의 모델로 vulnerable / safe / ambiguous 판정
-- **Blue Agent** — Phase 3 방어 규칙 생성 → Phase 4 검증 → **Phase 5 Guardrail Policy Package** 산출
-- **Testbed** — Implicit RAG 기반 챗봇 + Tool Gateway + ChromaDB(공개/내부/오염 문서) Docker 통합 환경
-- **Monitoring Proxy** — 운영 챗봇 앞단 P1~P4 정책 게이트 + 멀티턴 보존 + tool_trace 추적
-- **OWASP LLM Top 10 커버** — LLM01 Prompt Injection · LLM02 Sensitive Info · LLM06 Excessive Agency · LLM07 System Prompt Leakage
+- **Judge (LangGraph)** — Evidence Scanner · Strict Auditor · Context Auditor 합의로 vulnerable / safe / ambiguous 판정
+- **Blue Agent** — 방어 규칙 생성 → 검증 → **Guardrail Policy Package** 산출
+- **OWASP LLM Top 10 커버** — Prompt Injection · Sensitive Info · Excessive Agency · System Prompt Leakage
 
-<a href="https://github.com/gonida1010/AgentShield" target="_blank">💻 GitHub Repository →</a>
-
-<a href="https://www.notion.so/AgentShield-3646e129440d80c1929ed7548d313d2e?source=copy_link" target="_blank">📒 Notion →</a>
+<a href="https://github.com/gonida1010/AgentShield" target="_blank"><img src="https://api.iconify.design/lucide/github.svg?color=%237c3aed" width="14" height="14"/> GitHub</a> · <a href="https://www.notion.so/AgentShield-3646e129440d80c1929ed7548d313d2e?source=copy_link" target="_blank"><img src="https://api.iconify.design/lucide/notebook-pen.svg?color=%237c3aed" width="14" height="14"/> Notion</a>
 
 ---
 
@@ -139,118 +97,30 @@
 
 - **부위 인식** — EfficientNet-B2 파인튜닝으로 소·돼지 부위 9·7종 분류 (정확도 94.2%)
 - **하이브리드 OCR** — EasyOCR + PaddleOCR 결과 병합으로 이력번호 인식 (88.9%)
-- **공공 API 통합** — 시세 · 영양 · 유통이력 등 5종 API 연동
-- **AI 레시피** — Gemini 2.5 Flash로 부위별 요리법 추천 / 스마트 냉장고(D-day) 관리
 - **운영 인프라** — AWS EC2 + Docker Compose + Nginx 기반 마이크로서비스
 
-<a href="https://github.com/gonida1010/Meat-A-Eye-Service" target="_blank">💻 GitHub Repository →</a>
-
-<a href="https://www.notion.so/Meat-A-Eye-2e26e129440d8035ad3ef7c7df562ceb?source=copy_link" target="_blank">📒 Notion →</a>
-
----
-
-### YUZY Project · 코드 분석 & 하이브리드 OCR 파이프라인
-
-<a href="https://github.com/gonida1010/yuzyproject-aimodels" target="_blank">
-  <img src="https://img.shields.io/badge/Stack-FastAPI%20·%20PyTorch%20·%20Transformers-7c3aed?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Domain-LLM%20·%20OCR-db2777?style=flat-square"/>
-</a>
-
-> 오픈소스 LLM과 하이브리드 OCR을 결합해 프로젝트 코드를 분석·시각화하는 AI 백엔드
-
-- **코드 분석 LLM** — Qwen2.5-Coder-1.5B-Instruct로 API 엔드포인트 · 호출 플로우 추출
-- **시각화 출력** — 분석 결과 JSON 반환으로 프론트엔드 GenUI 연동
-- **하이브리드 OCR** — Tesseract + Windows WinRT 병렬 실행 후 결과 병합
-- **코드 모드** — 인식 결과의 들여쓰기 · 포맷팅 자동 보정
-- **서빙 최적화** — FastAPI + Uvicorn, 서버 부팅 시 모델 1회 로딩으로 추론 가속
-
-<a href="https://github.com/gonida1010/yuzyproject-aimodels" target="_blank">💻 GitHub Repository →</a>
-
-<a href="https://www.notion.so/YUZY-PROJECT-2e26e129440d801cbbdaccf0b71ed8f9?source=copy_link" target="_blank">📒 Notion →</a>
-
----
-
-### Edu-Sync AI · KDT 교육 운영 멀티 에이전트 AI 챗봇 <sub>`개인 · KEG 바이브코딩 공모전`</sub>
-
-<a href="https://github.com/gonida1010/KIT-AI-Learning" target="_blank">
-  <img src="https://img.shields.io/badge/Role-Solo%20Dev-22c55e?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Stack-FastAPI%20·%20React%20·%20LangChain%20·%20FAISS-7c3aed?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Domain-Multi--Agent%20·%20RAG-db2777?style=flat-square"/>
-</a>
-
-> 국비지원 코딩 학원의 학습 지원·행정 안내·조교 예약·멘토 상담을 하나의 AI 챗봇으로 통합한 멀티 에이전트 플랫폼 (1주일 개인 개발)
-
-- **멀티 에이전트 챗봇** — Agent Router가 의도 분류 후 행정·학습(Agent A) / 조교·예약(Agent B)으로 자동 라우팅
-- **RAG 파이프라인** — 공용 지식 · 큐레이션 · 멘토별 자료를 각각 독립 FAISS 벡터스토어로 분리 관리
-- **역할별 대시보드** — 수강생 · 멘토 · 조교 · 관리자 4개 역할 전용 화면 + 세션 기반 접근 제어
-- **조교 예약 자동화** — 4단계 예약 플로우(날짜→시간→내용→확정) + AI 브리핑 리포트 자동 생성
-- **카카오톡 챗봇 연동** — 카카오 채널 웹훅 → 웹 챗봇 통합 인터페이스
-- **배포** — Render (FastAPI + React SPA 정적 서빙) + PostgreSQL / SQLite 로컬 데모
-
-<a href="https://github.com/gonida1010/KIT-AI-Learning" target="_blank">💻 GitHub Repository →</a>
-
-<a href="https://www.notion.so/36e6e129440d8011976ae6ec1717284c?source=copy_link" target="_blank">📒 Notion →</a>
-
----
-
-### RL-Tycoon-Agent · 강화학습 알고리즘 비교 실험 플랫폼 <sub>`팀장`</sub>
-
-<a href="https://github.com/gonida1010/RL-Tycoon-Agent" target="_blank">
-  <img src="https://img.shields.io/badge/Role-Team%20Lead-f59e0b?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Stack-Python%20·%20Pygame%20·%20Gymnasium%20·%20SB3-7c3aed?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Domain-Reinforcement%20Learning-db2777?style=flat-square"/>
-</a>
-
-> Pygame 기반 레스토랑 타이쿤 환경에서 **13종 RL 알고리즘**의 운영 의사결정 학습을 비교·분석하는 실험 플랫폼
-
-- **환경 (Gymnasium)** — 16×10 타일 맵 · 18 이산 행동 · 150차원 관측 · 0.2초 스텝
-- **알고리즘 13종** — PPO · DQN · Rainbow · SAC · DiscreteSAC · MuZero · DreamerV3 · CrossPlay 등
-- **실행 모드 4종** — Human / Versus / Watch / Tournament 비교 학습
-- **전략 학습** — 단순 이동을 넘어 업그레이드 · 특성 선택까지 포함한 운영 의사결정
-- **결과 분석** — `final_score = net_profit × (1 + rating/10)` 기준 DiscreteSAC > CrossPlay > PPO
-
-<a href="https://github.com/gonida1010/RL-Tycoon-Agent" target="_blank">💻 GitHub Repository →</a>
-
-<a href="https://www.notion.so/RL-Tycoon-Agent-32c6e129440d809984c7e54c312bad3c?source=copy_link" target="_blank">📒 Notion →</a>
+<a href="https://github.com/gonida1010/Meat-A-Eye-Service" target="_blank"><img src="https://api.iconify.design/lucide/github.svg?color=%237c3aed" width="14" height="14"/> GitHub</a> · <a href="https://www.notion.so/Meat-A-Eye-2e26e129440d8035ad3ef7c7df562ceb?source=copy_link" target="_blank"><img src="https://api.iconify.design/lucide/notebook-pen.svg?color=%237c3aed" width="14" height="14"/> Notion</a>
 
 <br/>
 
-## 🛠️ Tech Stack
+## <img src="https://api.iconify.design/lucide/layers.svg?color=%237c3aed" width="22" height="22" align="top"/> Tech Stack
 
 <table>
   <tr>
     <td valign="top" width="50%">
 
-**🤖 AI / LLM**
-Vision · OCR · Fine-Tuning(LoRA) · LangGraph · RL · Data-Centric
+<img src="https://api.iconify.design/lucide/bot.svg?color=%237c3aed" width="16" height="16"/> **AI / LLM**
+LLM Fine-Tuning(LoRA) · Agent · RAG · Vision · OCR · RL
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
-
-  </td>
-  <td valign="top" width="50%">
-
-**⚙️ Backend**
-Async API · Model Serving · Data Pipeline · RDBMS · Vector DB
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339939?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square&logoColor=white"/>
-
-  </td>
-  </tr>
-  <tr>
-  <td valign="top" width="50%">
-
-**🖥️ Frontend**
-Dynamic UI · GenUI · SPA · 디자인 시스템
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
 
   </td>
   <td valign="top" width="50%">
 
-**☁️ Infra / DevOps**
-컨테이너화 · 배포 자동화 · 모니터링 · 비용/성능 최적화
+<img src="https://api.iconify.design/lucide/server.svg?color=%237c3aed" width="16" height="16"/> **Backend / Infra**
+Model Serving · Async API · RDBMS · Vector DB · Container
 
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 
   </td>
   </tr>
@@ -258,7 +128,7 @@ Dynamic UI · GenUI · SPA · 디자인 시스템
 
 <br/>
 
-## 🏃‍♂️ Daily Grind
+## <img src="https://api.iconify.design/lucide/activity.svg?color=%237c3aed" width="22" height="22" align="top"/> Daily Grind
 
 <div align="center">
   <picture>
@@ -270,16 +140,8 @@ Dynamic UI · GenUI · SPA · 디자인 시스템
 
 <br/>
 
-## 📊 GitHub Stats
-
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gonida1010&theme=tokyonight" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gonida1010&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gonida1010&theme=tokyonight" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gonida1010&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gonida1010&theme=tokyonight&utcOffset=9" />
 </div>
 
 <div align="center">
